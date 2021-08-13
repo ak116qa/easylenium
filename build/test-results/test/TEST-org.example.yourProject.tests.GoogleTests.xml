@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.yourProject.tests.GoogleTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-06T09:57:29" hostname="cometrica-pc" time="2.632">
+  <properties/>
+  <testcase name="searchSeleniumRequest" classname="org.example.yourProject.tests.GoogleTests" time="2.632"/>
+  <system-out><![CDATA[Selenium
+Selenium — Википедия
+Что такое Selenium? / Хабр
+Похожие запросы
+Selenium with Python — Selenium Python Bindings 2 ...
+1. Installation — Selenium Python Bindings 2 documentation
+Видео
+SeleniumHQ/selenium: A browser automation ... - GitHub
+Selenium WebDriver + Java для начинающих | Udemy
+Что Такое Selenium И Что Такое WebDriver? - CodeRoad
+Что такое Selenium? - Selenium WebDriver
+Связанные запросы
+Картинки
+Описание
+12:57:31.898 [Test worker] INFO  o.e.myFramework.helpers.BaseHelper - screenshot has been created with name: SCR_125731.jpg in screenshots/2021-08-06 folder
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
